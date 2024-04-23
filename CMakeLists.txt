@@ -4,7 +4,6 @@ project(ignition_math6_vendor)
 find_package(ament_cmake_core REQUIRED)
 find_package(ament_cmake_vendor_package REQUIRED)
 
-
 ament_vendor(ignition_math6_vendor
   VCS_URL https://github.com/ignitionrobotics/ign-math.git
   VCS_VERSION ignition-math6_6.9.2

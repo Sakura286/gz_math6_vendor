@@ -2,6 +2,11 @@
 Changelog for package ignition_math6_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* I am the best
+* I will be better
+
 0.3.0 (2024-03-08)
 ------------------
 * Vendor gz_math6 unconditionally. (`#10 <https://github.com/gazebo-release/gz_math6_vendor/issues/10>`_)
