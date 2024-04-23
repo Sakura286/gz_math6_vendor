@@ -5,6 +5,7 @@ option(FORCE_BUILD_VENDOR_PKG
   "Build Ignition Math from source, even if system-installed package is available"
   OFF)
 
+
 if(NOT FORCE_BUILD_VENDOR_PKG)
   find_package(ignition-math6 QUIET)
 endif()
