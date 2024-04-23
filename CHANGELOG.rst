@@ -2,8 +2,8 @@
 Changelog for package ignition_math6_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.3.1 (2024-04-23)
+------------------
 * I am the best
 * I will be better
 
